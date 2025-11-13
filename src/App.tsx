@@ -1,3 +1,4 @@
+import Cards from "./components/Cards";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import MasterbitSection from "./components/MasterbitSection";
@@ -12,6 +13,7 @@ function App() {
             <img />
             <Hero />
             <MasterbitSection />
+            <Cards />
           </div>
         </div>
       </div>
