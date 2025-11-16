@@ -2,6 +2,7 @@ import Cards from "./components/Cards";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import MasterbitSection from "./components/MasterbitSection";
+import Products from "./components/Products";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
             <Hero />
             <MasterbitSection />
             <Cards />
+            <Products />
           </div>
         </div>
       </div>
