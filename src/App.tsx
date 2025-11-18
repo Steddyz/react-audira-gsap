@@ -1,5 +1,6 @@
 import Cards from "./components/Cards";
 import DescriptionSection from "./components/DescriptionSection";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import MasterbitSection from "./components/MasterbitSection";
@@ -21,6 +22,7 @@ function App() {
           </div>
         </div>
       </div>
+      <Footer />
     </main>
   );
 }
